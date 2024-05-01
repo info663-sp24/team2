@@ -1,14 +1,21 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+title,Title,TRUE,,DCTERMS.title,headline
+creator,Creators,TRUE,,DCTERMS.creator,creator
+date,Date Created,TRUE,,DCTERMS.date,dateCreated
+description,Description,TRUE,,DCTERMS.description,description
+subject,Subjects,TRUE,,DCTERMS.subject,keywords
+object_location,Link,,,,
+pbcoreDescription2,Biographical Note,,,,
+pbcoreSubject,Organization Mentioned,,,,
+pbcoreSubject2,Person Mentioned,,,,
+publisher,Publisher,,,,
+citation,Citation,,,,
+instantiationDuration,Duration,,,,
+language,Language,,,,
+instantiationAlternativeModes,Transcript Note,,,,
+ref,Transcript 1,,,,
+ref2,Transcript 2,,,,
+ref3,Transcript 3,,,,
+ref4,Transcript 4,,,,
+ref5,Transcript 5,,,,
+identifier,Object ID,,,,
