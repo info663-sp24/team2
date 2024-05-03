@@ -1,6 +1,4 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-objectid,Object ID,FALSE,,,
-parentid,Parent ID,FALSE,,DCTERMS.isPartOf,encodesCreativeWork
 title,Title,TRUE,,DCTERMS.title,headline
 creator,Creators,FALSE,,DCTERMS.creator,creator
 date,Date Created,TRUE,,DCTERMS.date,dateCreated
@@ -10,10 +8,10 @@ subject,Subjects,FALSE,TRUE,DCTERMS.subject,keywords
 pbcoreSubject,Organization Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
 pbcoreSubject2,Person Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
 publisher,Publisher,FALSE,,DCTERMS.publisher,publisher
+object_location,Link to Resource,FALSE,TRUE,DCTERMS.identifier,contentLocation
 citation,Citation,FALSE,,DCTERMS.bibliographicCitation,citation
 instantiationDuration,Duration,FALSE,,DCTERMS.SizeOrDuration,duration
 language,Language,FALSE,,DCTERMS.language,inLanguage
-object_location,Link to Resource,FALSE,TRUE,DCTERMS.identifier,contentLocation
 instantiationAlternativeModes,Transcript Note,FALSE,,,
 ref,Link to Transcript 1,FALSE,TRUE,,transcript
 ref2,Link to Transcript 2,FALSE,TRUE,,transcript

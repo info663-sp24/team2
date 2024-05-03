@@ -2,7 +2,7 @@ field,index,display
 title,TRUE,TRUE
 date,TRUE,TRUE
 creator,TRUE,TRUE
-description,FALSE,TRUE
+description,TRUE,TRUE
 subject,TRUE,TRUE
 pbcoreSubject,TRUE,TRUE
 pbcoreSubject2,TRUE,TRUE
