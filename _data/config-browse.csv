@@ -1,7 +1,8 @@
 field,display_name,btn,hidden,sort_name
 title,Title,,,
 date,Date,,,Date Created
-creator,Creators,,,
+creator,Interviewee,TRUE,,
+creator_interviewer,Inteviewer,TRUE,,
 description,Description,,,
 subject,Subjects,TRUE,TRUE,
 pbcoreSubject2,People Mentioned,TRUE,TRUE,

@@ -2,6 +2,7 @@ field,index,display
 title,TRUE,TRUE
 date,TRUE,TRUE
 creator,TRUE,TRUE
+creator_interviewer,TRUE,TRUE
 description,TRUE,TRUE
 subject,TRUE,TRUE
 pbcoreSubject,TRUE,TRUE

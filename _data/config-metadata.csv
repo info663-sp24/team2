@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,TRUE,,DCTERMS.title,headline
-creator,Creators,FALSE,,DCTERMS.creator,creator
+creator,Interviewee,TRUE,,DCTERMS.creator,creator
+creator_interviewer,Inteviewer,TRUE,,DCTERMS.creator,creator
 date,Date Created,TRUE,,DCTERMS.date,dateCreated
 description,Description,FALSE,,DCTERMS.description,description
 pbcoreDescription2,Biographical Note,FALSE,,DCTERMS.abstract,abstract
