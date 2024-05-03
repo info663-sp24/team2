@@ -5,5 +5,5 @@ creator,TRUE,TRUE
 creator_interviewer,TRUE,TRUE
 description,TRUE,TRUE
 subject,TRUE,TRUE
-pbcoreSubject,TRUE,TRUE
-pbcoreSubject2,TRUE,TRUE
+people_mentioned,TRUE,TRUE
+organizations_mentioned,TRUE,TRUE

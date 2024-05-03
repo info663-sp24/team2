@@ -4,18 +4,18 @@ creator,Interviewee,TRUE,,DCTERMS.creator,creator
 creator_interviewer,Inteviewer,TRUE,,DCTERMS.creator,creator
 date,Date Created,TRUE,,DCTERMS.date,dateCreated
 description,Description,FALSE,,DCTERMS.description,description
-pbcoreDescription2,Biographical Note,FALSE,,DCTERMS.abstract,abstract
+interviewee_biographical_note,Biographical Note,FALSE,,DCTERMS.abstract,abstract
 subject,Subjects,FALSE,TRUE,DCTERMS.subject,keywords
-pbcoreSubject,Organizations Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
-pbcoreSubject2,People Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
+organizations_mentioned,Organizations Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
+people_mentioned,People Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
 publisher,Publisher,FALSE,,DCTERMS.publisher,publisher
 object_location,Link to Resource,FALSE,TRUE,DCTERMS.identifier,contentLocation
-instantiationDuration,Duration,FALSE,,DCTERMS.SizeOrDuration,duration
+duration,Duration,FALSE,,DCTERMS.SizeOrDuration,duration
 language,Language,FALSE,,DCTERMS.language,inLanguage
-instantiationAlternativeModes,Transcript Note,FALSE,,,
+trainscript_note,Transcript Note,FALSE,,,
 citation,Citation,FALSE,,DCTERMS.bibliographicCitation,citation
-ref,Link to Transcript 1,FALSE,TRUE,,transcript
-ref2,Link to Transcript 2,FALSE,TRUE,,transcript
-ref3,Link to Transcript 3,FALSE,TRUE,,transcript
-ref4,Link to Transcript 4,FALSE,TRUE,,transcript
-ref5,Link to Transcript 5,FALSE,TRUE,,transcript
+transcript_link_1,Link to Transcript 1,FALSE,TRUE,,transcript
+transcript_link_2,Link to Transcript 2,FALSE,TRUE,,transcript
+transcript_link_3,Link to Transcript 3,FALSE,TRUE,,transcript
+transcript_link_4,Link to Transcript 4,FALSE,TRUE,,transcript
+transcript_link_5,Link to Transcript 5,FALSE,TRUE,,transcript
