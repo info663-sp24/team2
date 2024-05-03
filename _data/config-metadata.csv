@@ -5,9 +5,9 @@ creator_interviewer,Inteviewer,TRUE,,DCTERMS.creator,creator
 date,Date Created,TRUE,,DCTERMS.date,dateCreated
 description,Description,FALSE,,DCTERMS.description,description
 interviewee_biographical_note,Biographical Note,FALSE,,DCTERMS.abstract,abstract
-subject,Subjects,FALSE,TRUE,DCTERMS.subject,keywords
-organizations_mentioned,Organizations Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
-people_mentioned,People Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
+subject,Subjects,TRUE,TRUE,DCTERMS.subject,keywords
+organizations_mentioned,Organizations Mentioned,TRUE,TRUE,DCTERMS.subject,keywords
+people_mentioned,People Mentioned,TRUE,TRUE,DCTERMS.subject,keywords
 publisher,Publisher,FALSE,,DCTERMS.publisher,publisher
 object_location,Link to Resource,FALSE,TRUE,DCTERMS.identifier,contentLocation
 duration,Duration,FALSE,,DCTERMS.SizeOrDuration,duration
