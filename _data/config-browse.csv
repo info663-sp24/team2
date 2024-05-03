@@ -1,6 +1,7 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
-identifier,,,true,Identifier
+title,Title,,,Title
+date,Date,,,Date Created
+creator,Creator,,,Creators
+subject,Subject,TRUE,,Subject
+pbcoreSubject2,Person Mentioned,TRUE,,Person Mentioned
+pbcoreSubject,Organization Mentioned,TRUE,,Organization Mentioned
