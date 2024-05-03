@@ -1,9 +1,9 @@
 field,index,display
-title,true,
-date,true,
-creator,true,
-creator_interviewer,true,
-description,true,
-subject,true,
-people_mentioned,true,
-organizations_mentioned,true,
+title,true,true
+date,true,true
+creator,true,true
+creator_interviewer,true,true
+description,true,true
+subject,true,true
+people_mentioned,true,true
+organizations_mentioned,true,true

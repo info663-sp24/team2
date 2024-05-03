@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,true,,DCTERMS.title,headline
-creator,Interviewee,true,true,DCTERMS.creator,creator
-creator_interviewer,Inteviewer,true,true,DCTERMS.creator,creator
-date,Date Created,true,,DCTERMS.date,dateCreated
+title,Title,,,DCTERMS.title,headline
+creator,Interviewee,true,,DCTERMS.creator,creator
+creator_interviewer,Inteviewer,true,,DCTERMS.creator,creator
+date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 interviewee_biographical_note,Biographical Note,,,DCTERMS.abstract,abstract
-subject,Subjects,true,true,DCTERMS.subject,keywords
+subject,Subjects,true,,DCTERMS.subject,keywords
 organizations_mentioned,Organizations Mentioned,true,,DCTERMS.subject,keywords
-people_mentioned,People Mentioned,true,true,DCTERMS.subject,keywords
+people_mentioned,People Mentioned,true,,DCTERMS.subject,keywords
 publisher,Publisher,,,DCTERMS.publisher,publisher
 object_location,Link to Resource,,true,DCTERMS.identifier,contentLocation
 duration,Duration,,,DCTERMS.SizeOrDuration,duration
