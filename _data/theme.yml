@@ -111,9 +111,9 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 #   icon-audio: soundwave
 #   icon-video: film
 #   icon-pdf: file-pdf
-#   icon-record: soundwave
+   icon-record: soundwave
 #   icon-panorama: image-alt
-#   icon-compound-object: collection-fill 
+   icon-compound-object: collection-fill 
 #   icon-multiple: postcard
 #   icon-default: file-earmark # fall back icon
 #   icon-back-to-top: arrow-up-square
