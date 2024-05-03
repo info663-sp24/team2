@@ -1,9 +1,9 @@
 field,display_name,btn,hidden,sort_name
 title,Title,,,
 date,Date,,,Date Created
-creator,Interviewee,TRUE,,
-creator_interviewer,Inteviewer,TRUE,,
+creator,Interviewee,true,,
+creator_interviewer,Inteviewer,true,,
 description,Description,,,
-subject,Subjects,TRUE,TRUE,
-people_mentioned,People Mentioned,TRUE,TRUE,
-organizations_mentioned,Organizations Mentioned,TRUE,TRUE,
+subject,Subjects,true,true,
+people_mentioned,People Mentioned,true,,
+organizations_mentioned,Organizations Mentioned,true,true,

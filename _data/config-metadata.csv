@@ -1,21 +1,21 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,TRUE,,DCTERMS.title,headline
-creator,Interviewee,TRUE,,DCTERMS.creator,creator
-creator_interviewer,Inteviewer,TRUE,,DCTERMS.creator,creator
-date,Date Created,TRUE,,DCTERMS.date,dateCreated
-description,Description,FALSE,,DCTERMS.description,description
-interviewee_biographical_note,Biographical Note,FALSE,,DCTERMS.abstract,abstract
-subject,Subjects,TRUE,TRUE,DCTERMS.subject,keywords
-organizations_mentioned,Organizations Mentioned,TRUE,TRUE,DCTERMS.subject,keywords
-people_mentioned,People Mentioned,TRUE,TRUE,DCTERMS.subject,keywords
-publisher,Publisher,FALSE,,DCTERMS.publisher,publisher
-object_location,Link to Resource,FALSE,TRUE,DCTERMS.identifier,contentLocation
-duration,Duration,FALSE,,DCTERMS.SizeOrDuration,duration
-language,Language,FALSE,,DCTERMS.language,inLanguage
-trainscript_note,Transcript Note,FALSE,,,
-citation,Citation,FALSE,,DCTERMS.bibliographicCitation,citation
-transcript_link_1,Link to Transcript 1,FALSE,TRUE,,transcript
-transcript_link_2,Link to Transcript 2,FALSE,TRUE,,transcript
-transcript_link_3,Link to Transcript 3,FALSE,TRUE,,transcript
-transcript_link_4,Link to Transcript 4,FALSE,TRUE,,transcript
-transcript_link_5,Link to Transcript 5,FALSE,TRUE,,transcript
+title,Title,true,,DCTERMS.title,headline
+creator,Interviewee,true,true,DCTERMS.creator,creator
+creator_interviewer,Inteviewer,true,true,DCTERMS.creator,creator
+date,Date Created,true,,DCTERMS.date,dateCreated
+description,Description,,,DCTERMS.description,description
+interviewee_biographical_note,Biographical Note,,,DCTERMS.abstract,abstract
+subject,Subjects,true,true,DCTERMS.subject,keywords
+organizations_mentioned,Organizations Mentioned,true,,DCTERMS.subject,keywords
+people_mentioned,People Mentioned,true,true,DCTERMS.subject,keywords
+publisher,Publisher,,,DCTERMS.publisher,publisher
+object_location,Link to Resource,,true,DCTERMS.identifier,contentLocation
+duration,Duration,,,DCTERMS.SizeOrDuration,duration
+language,Language,,,DCTERMS.language,inLanguage
+trainscript_note,Transcript Note,,,,
+citation,Citation,,,DCTERMS.bibliographicCitation,citation
+transcript_1_link,Link to Transcript 1,,true,,transcript
+transcript_2_link,Link to Transcript 2,,true,,transcript
+transcript_3_link,Link to Transcript 3,,true,,transcript
+transcript_4_link,Link to Transcript 4,,true,,transcript
+transcript_5_link,Link to Transcript 5,,true,,transcript
