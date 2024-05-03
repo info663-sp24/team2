@@ -20,14 +20,18 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: "Voices from the Food Revolution: People Who Changed The Way Americans Eat"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 
+tagline: An oral history project conducted by Judith Weinraub
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is a digital collection exhibition for Judith Weinraub's oral history project: Voices from the Food Revolution: People Who Changed The Way Americans Eat"
+description: "This is a digital collection exhibition for Judith Weinraub's oral history project: Voices from the Food Revolution: People Who Changed The Way Americans Eat. Ten years into the 21st century, food is a hot topic. Americans have learned that there are consequences to what we cook, eat, and feed our families. We acknowledge the relationship between our agricultural policy and the country's food system. We recognize cooking as a legitimate and increasingly popular career option and field of study. We lionize successful chefs.
+
+Visitors from fifty years ago wouldn't recognize today's preoccupation with food. They lived in a world where cherished new 'convenience' foods de-emphasized actual cooking, and the shelves at neighborhood grocery stores and supermarkets were lined with increasingly industrialized products. Fine restaurants of the time were mostly French. And nobody thought of taking on the American food system as a legitimate and desirable way to change the world.
+
+But over time, post-WW II attitudes and buying habits as well as the arrival of new immigrant groups, the re-emergence of farmers markets, and a growing awareness of the consequences of eating poorly have slowly redefined our relationships with food."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: 
+keywords: Cooking, American -- History -- 20th century.; Food industry and trade; Restaurants -- New York (State) -- New York
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: "?"
+author: "Emily Cunningham, Gibson Field & Hanna Sheehan"
 
 ##########
 # COLLECTION SETTINGS
@@ -50,10 +54,10 @@ metadata: final
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+# organization-link: https://cdil.lib.uidaho.edu/
+# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
 # ROBOTS EXCLUDE
