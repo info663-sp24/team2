@@ -2,21 +2,21 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 objectid,Object ID,FALSE,,,
 parentid,Parent ID,FALSE,,DCTERMS.isPartOf,encodesCreativeWork
 title,Title,TRUE,,DCTERMS.title,headline
-creator,Creators,TRUE,,DCTERMS.creator,creator
+creator,Creators,FALSE,,DCTERMS.creator,creator
 date,Date Created,TRUE,,DCTERMS.date,dateCreated
 description,Description,FALSE,,DCTERMS.description,description
 pbcoreDescription2,Biographical Note,FALSE,,DCTERMS.abstract,abstract
-object_location,Link,FALSE,,DCTERMS.identifier,contentLocation
-subject,Subjects,TRUE,TRUE,DCTERMS.subject,keywords
-pbcoreSubject,Organization Mentioned,TRUE,TRUE,DCTERMS.subject,keywords
-pbcoreSubject2,Person Mentioned,TRUE,TRUE,DCTERMS.subject,keywords
+subject,Subjects,FALSE,TRUE,DCTERMS.subject,keywords
+pbcoreSubject,Organization Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
+pbcoreSubject2,Person Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
 publisher,Publisher,FALSE,,DCTERMS.publisher,publisher
 citation,Citation,FALSE,,DCTERMS.bibliographicCitation,citation
 instantiationDuration,Duration,FALSE,,DCTERMS.SizeOrDuration,duration
 language,Language,FALSE,,DCTERMS.language,inLanguage
+object_location,Link to Resource,FALSE,TRUE,DCTERMS.identifier,contentLocation
 instantiationAlternativeModes,Transcript Note,FALSE,,,
-ref,Transcript 1,FALSE,,,transcript
-ref2,Transcript 2,FALSE,,,transcript
-ref3,Transcript 3,FALSE,,,transcript
-ref4,Transcript 4,FALSE,,,transcript
-ref5,Transcript 5,FALSE,,,transcript
+ref,Link to Transcript 1,FALSE,TRUE,,transcript
+ref2,Link to Transcript 2,FALSE,TRUE,,transcript
+ref3,Link to Transcript 3,FALSE,TRUE,,transcript
+ref4,Link to Transcript 4,FALSE,TRUE,,transcript
+ref5,Link to Transcript 5,FALSE,TRUE,,transcript
