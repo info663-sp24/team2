@@ -1,0 +1,21 @@
+field,display_name,browse_link,external_link,dc_map,schema_map
+title,Title,TRUE,,DCTERMS.title,headline
+creator,Interviewee,TRUE,TRUE,DCTERMS.creator,creator
+creator_interviewer,Inteviewer,TRUE,TRUE,DCTERMS.creator,creator
+date,Date Created,TRUE,,DCTERMS.date,dateCreated
+description,Description,FALSE,,DCTERMS.description,description
+interviewee_biographical_note,Biographical Note,FALSE,,DCTERMS.abstract,abstract
+subject,Subjects,TRUE,TRUE,DCTERMS.subject,keywords
+organizations_mentioned,Organizations Mentioned,TRUE,FALSE,DCTERMS.subject,keywords
+people_mentioned,People Mentioned,TRUE,TRUE,DCTERMS.subject,keywords
+publisher,Publisher,FALSE,,DCTERMS.publisher,publisher
+object_location,Link to Resource,FALSE,TRUE,DCTERMS.identifier,contentLocation
+duration,Duration,FALSE,,DCTERMS.SizeOrDuration,duration
+language,Language,FALSE,,DCTERMS.language,inLanguage
+trainscript_note,Transcript Note,FALSE,,,
+citation,Citation,FALSE,,DCTERMS.bibliographicCitation,citation
+transcript_1_link,Link to Transcript 1,FALSE,TRUE,,transcript
+transcript_2_link,Link to Transcript 2,FALSE,TRUE,,transcript
+transcript_3_link,Link to Transcript 3,FALSE,TRUE,,transcript
+transcript_4_link,Link to Transcript 4,FALSE,TRUE,,transcript
+transcript_5_link,Link to Transcript 5,FALSE,TRUE,,transcript
