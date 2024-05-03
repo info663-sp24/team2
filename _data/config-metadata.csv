@@ -5,14 +5,14 @@ date,Date Created,TRUE,,DCTERMS.date,dateCreated
 description,Description,FALSE,,DCTERMS.description,description
 pbcoreDescription2,Biographical Note,FALSE,,DCTERMS.abstract,abstract
 subject,Subjects,FALSE,TRUE,DCTERMS.subject,keywords
-pbcoreSubject,Organization Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
-pbcoreSubject2,Person Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
+pbcoreSubject,Organizations Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
+pbcoreSubject2,People Mentioned,FALSE,TRUE,DCTERMS.subject,keywords
 publisher,Publisher,FALSE,,DCTERMS.publisher,publisher
 object_location,Link to Resource,FALSE,TRUE,DCTERMS.identifier,contentLocation
-citation,Citation,FALSE,,DCTERMS.bibliographicCitation,citation
 instantiationDuration,Duration,FALSE,,DCTERMS.SizeOrDuration,duration
 language,Language,FALSE,,DCTERMS.language,inLanguage
 instantiationAlternativeModes,Transcript Note,FALSE,,,
+citation,Citation,FALSE,,DCTERMS.bibliographicCitation,citation
 ref,Link to Transcript 1,FALSE,TRUE,,transcript
 ref2,Link to Transcript 2,FALSE,TRUE,,transcript
 ref3,Link to Transcript 3,FALSE,TRUE,,transcript

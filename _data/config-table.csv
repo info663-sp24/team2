@@ -3,5 +3,5 @@ title,Title
 date,Date
 description,Description
 subject,Subjects
-pbcoreSubject2,Person Mentioned
-pbcoreSubject,Organization Mentioned
+pbcoreSubject2,People Mentioned
+pbcoreSubject,Organizations Mentioned
