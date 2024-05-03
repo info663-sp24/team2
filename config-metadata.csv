@@ -1,0 +1,22 @@
+field,display_name,browse_link,external_link,dc_map,schema_map
+objectid,Object ID,FALSE,,,
+parentid,Parent ID,FALSE,,DCTERMS.isPartOf,encodesCreativeWork
+title,Title,TRUE,,DCTERMS.title,headline
+creator,Creators,TRUE,,DCTERMS.creator,creator
+date,Date Created,TRUE,,DCTERMS.date,dateCreated
+description,Description,FALSE,,DCTERMS.description,description
+pbcoreDescription2,Biographical Note,FALSE,,DCTERMS.abstract,abstract
+object_location,Link,FALSE,,DCTERMS.identifier,contentLocation
+subject,Subjects,TRUE,TRUE,DCTERMS.subject,keywords
+pbcoreSubject,Organization Mentioned,TRUE,TRUE,DCTERMS.subject,keywords
+pbcoreSubject2,Person Mentioned,TRUE,TRUE,DCTERMS.subject,keywords
+publisher,Publisher,FALSE,,DCTERMS.publisher,publisher
+citation,Citation,FALSE,,DCTERMS.bibliographicCitation,citation
+instantiationDuration,Duration,FALSE,,DCTERMS.SizeOrDuration,duration
+language,Language,FALSE,,DCTERMS.language,inLanguage
+instantiationAlternativeModes,Transcript Note,FALSE,,,
+ref,Transcript 1,FALSE,,,transcript
+ref2,Transcript 2,FALSE,,,transcript
+ref3,Transcript 3,FALSE,,,transcript
+ref4,Transcript 4,FALSE,,,transcript
+ref5,Transcript 5,FALSE,,,transcript

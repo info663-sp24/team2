@@ -1,0 +1,7 @@
+field,display_name,btn,hidden,sort_name
+title,Title,,,Title
+date,Date,,,Date Created
+creator,Creator,,,Creators
+subject,Subject,TRUE,,Subject
+pbcoreSubject2,Person Mentioned,TRUE,,Person Mentioned
+pbcoreSubject,Organization Mentioned,TRUE,,Organization Mentioned
