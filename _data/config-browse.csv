@@ -1,9 +1,8 @@
 field,display_name,btn,hidden,sort_name
-title,Title,,,
-date,Date,,,Date Created
+date,,,,Date Created
+description,,,,
 creator,Interviewee,true,,
 creator_interviewer,Inteviewer,true,,
-description,Description,,,
 subject,Subjects,true,true,
 people_mentioned,People Mentioned,true,,
 organizations_mentioned,Organizations Mentioned,true,true,
