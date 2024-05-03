@@ -2,9 +2,9 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Interviewee,true,,DCTERMS.creator,creator
 creator_interviewer,Inteviewer,true,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
+date,Date Created,true,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
-interviewee_biographical_note,Biographical Note,,,DCTERMS.abstract,abstract
+interviewee_biographical_note,Interviewee Biographical Note,,,DCTERMS.abstract,abstract
 subject,Subjects,true,,DCTERMS.subject,keywords
 organizations_mentioned,Organizations Mentioned,true,,DCTERMS.subject,keywords
 people_mentioned,People Mentioned,true,,DCTERMS.subject,keywords
