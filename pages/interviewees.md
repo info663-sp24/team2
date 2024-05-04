@@ -4,7 +4,7 @@ layout: cloud
 permalink: /interviewees.html
 # Default subject page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.subjects-fields"
-cloud-fields: organizations_mentioned
+cloud-fields: creator
 ---
 
 ## Browse Interviewees
