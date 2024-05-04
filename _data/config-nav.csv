@@ -2,6 +2,8 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
 Subjects,/subjects.html,
+People Mentioned,/people-mentioned.html,
+Organizations Mentioned,/organizations-mentioned.html,
 Timeline,/timeline.html,
 Data,/data.html,
 About,/about.html,
