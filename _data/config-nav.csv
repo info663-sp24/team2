@@ -2,10 +2,10 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
 Browse By,,
-Browse Interviewees,/interviewee.html,Browse By
-Browse Subjects,/subjects.html,Browse By
-Browse People Mentioned,/people-mentioned.html,Browse By
-Browse Organizations Mentioned,/organizations-mentioned.html,Browse By
+Interviewee,/interviewees.html,Browse By
+Subject,/subjects.html,Browse By
+Person Mentioned,/people-mentioned.html,Browse By
+Organization Mentioned,/organizations-mentioned.html,Browse By
 Timeline,/timeline.html,
 Data,/data.html,
 About,/about.html,
