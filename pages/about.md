@@ -9,8 +9,6 @@ credits: true
 ---
 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV; %}
-
 ## About Voices from the Food Revolution: People Who Changed The Way Americans Eat
 
 Items in this digital collection come from Judith Weinraub's oral history project titled, "Voices from the Food Revolution: People Who Changed The Way Americans Eat," in which she documets the development of American foodways of the last half-centuty. This project was published by New York University's [Fales Library and Special Collections](https://library.nyu.edu) and the full collection is described in an [archival finding aid](https://findingaids.library.nyu.edu/fales/mss_309/).
