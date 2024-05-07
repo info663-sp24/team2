@@ -9,7 +9,7 @@ credits: true
 ---
 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="About CollectionBuilder CSV; %}
 
 ## About Voices from the Food Revolution: People Who Changed The Way Americans Eat
 
